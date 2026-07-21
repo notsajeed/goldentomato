@@ -32,6 +32,16 @@
             { "id": "binary-search", "name": "Binary Search", "path": "dsa/searching/binary-search.md" },
             { "id": "ternary-search", "name": "Ternary Search", "path": "dsa/searching/ternary-search.md" }
           ]
+        },
+        {
+          "id": "linked-list",
+          "name": "Linked List",
+          "topics": [
+            { "id": "singly-linked-list", "name": "Singly Linked List", "path": "dsa/linked-list/singly-linked-list.md" },
+            { "id": "reverse-linked-list", "name": "Reverse Linked List", "path": "dsa/linked-list/reverse-linked-list.md" },
+            { "id": "detect-cycle", "name": "Detect Cycle", "path": "dsa/linked-list/detect-cycle.md" },
+            { "id": "merge-two-lists", "name": "Merge Two Sorted Lists", "path": "dsa/linked-list/merge-two-lists.md" }
+          ]
         }
       ]
     }
