@@ -1,0 +1,30 @@
+{
+  "subjects": [
+    {
+      "id": "dsa",
+      "name": "Data Structures & Algorithms",
+      "categories": [
+        {
+          "id": "arrays",
+          "name": "Arrays",
+          "topics": [
+            { "id": "two-pointer", "name": "Two Pointer", "path": "dsa/arrays/two-pointers.md" },
+            { "id": "sliding-window", "name": "Sliding Window", "path": "dsa/arrays/sliding-window.md" },
+            { "id": "kadane", "name": "Kadane's Algorithm", "path": "dsa/arrays/kadane.md" }
+          ]
+        },
+        {
+          "id": "sorting",
+          "name": "Sorting",
+          "topics": [
+            { "id": "bubble", "name": "Bubble Sort", "path": "dsa/sorting/bubble.md" },
+            { "id": "merge", "name": "Merge Sort", "path": "dsa/sorting/merge.md" },
+            { "id": "quick", "name": "Quick Sort", "path": "dsa/sorting/quick.md" },
+            { "id": "heap", "name": "Heap Sort", "path": "dsa/sorting/heap.md" },
+            { "id": "radix", "name": "Radix Sort", "path": "dsa/sorting/radix.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
