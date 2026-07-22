@@ -42,6 +42,16 @@
             { "id": "detect-cycle", "name": "Detect Cycle", "path": "dsa/linked-list/detect-cycle.md" },
             { "id": "merge-two-lists", "name": "Merge Two Sorted Lists", "path": "dsa/linked-list/merge-two-lists.md" }
           ]
+        },
+        {
+          "id": "stack-queue",
+          "name": "Stack & Queue",
+          "topics": [
+            { "id": "stack-basics", "name": "Stack", "path": "dsa/stack-queue/stack-basics.md" },
+            { "id": "queue-basics", "name": "Queue", "path": "dsa/stack-queue/queue-basics.md" },
+            { "id": "valid-parentheses", "name": "Valid Parentheses", "path": "dsa/stack-queue/valid-parentheses.md" },
+            { "id": "monotonic-stack", "name": "Monotonic Stack", "path": "dsa/stack-queue/monotonic-stack.md" }
+          ]
         }
       ]
     }
