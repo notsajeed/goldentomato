@@ -52,6 +52,16 @@
             { "id": "valid-parentheses", "name": "Valid Parentheses", "path": "dsa/stack-queue/valid-parentheses.md" },
             { "id": "monotonic-stack", "name": "Monotonic Stack", "path": "dsa/stack-queue/monotonic-stack.md" }
           ]
+        },
+        {
+          "id": "trees",
+          "name": "Trees",
+          "topics": [
+            { "id": "tree-traversal-bfs", "name": "Tree Traversal - BFS", "path": "dsa/trees/tree-traversal-bfs.md" },
+            { "id": "tree-traversal-dfs", "name": "Tree Traversal - DFS", "path": "dsa/trees/tree-traversal-dfs.md" },
+            { "id": "bst", "name": "Binary Search Tree", "path": "dsa/trees/bst.md" },
+            { "id": "avl", "name": "AVL Tree", "path": "dsa/trees/avl.md" }
+          ]
         }
       ]
     }
