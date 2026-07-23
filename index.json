@@ -60,7 +60,35 @@
             { "id": "tree-traversal-bfs", "name": "Tree Traversal - BFS", "path": "dsa/trees/tree-traversal-bfs.md" },
             { "id": "tree-traversal-dfs", "name": "Tree Traversal - DFS", "path": "dsa/trees/tree-traversal-dfs.md" },
             { "id": "bst", "name": "Binary Search Tree", "path": "dsa/trees/bst.md" },
-            { "id": "avl", "name": "AVL Tree", "path": "dsa/trees/avl.md" }
+            { "id": "avl", "name": "AVL Tree", "path": "dsa/trees/avl.md" },
+            { "id": "segment-tree", "name": "Segment Tree", "path": "dsa/trees/segment-tree.md" },
+            { "id": "trie", "name": "Trie", "path": "dsa/trees/trie.md" },
+            { "id": "fenwick-tree", "name": "Fenwick Tree", "path": "dsa/trees/fenwick-tree.md" }
+          ]
+        },
+        {
+          "id": "graphs",
+          "name": "Graphs",
+          "topics": [
+            { "id": "bfs", "name": "BFS", "path": "dsa/graphs/bfs.md" },
+            { "id": "dfs", "name": "DFS", "path": "dsa/graphs/dfs.md" },
+            { "id": "dijkstra", "name": "Dijkstra", "path": "dsa/graphs/dijkstra.md" },
+            { "id": "bellman-ford", "name": "Bellman-Ford", "path": "dsa/graphs/bellman-ford.md" },
+            { "id": "floyd-warshall", "name": "Floyd-Warshall", "path": "dsa/graphs/floyd-warshall.md" },
+            { "id": "mst", "name": "Minimum Spanning Tree", "path": "dsa/graphs/mst.md" },
+            { "id": "topo-sort", "name": "Topological Sort", "path": "dsa/graphs/topo-sort.md" },
+            { "id": "scc", "name": "Strongly Connected Components", "path": "dsa/graphs/scc.md" },
+            { "id": "a-star", "name": "A* Search", "path": "dsa/graphs/a-star.md" }
+          ]
+        },
+        {
+          "id": "dp",
+          "name": "Dynamic Programming",
+          "topics": [
+            { "id": "fibonacci-memoization", "name": "Fibonacci - Memoization & Tabulation", "path": "dsa/dp/fibonacci-memoization.md" },
+            { "id": "knapsack-01", "name": "0/1 Knapsack", "path": "dsa/dp/knapsack-01.md" },
+            { "id": "longest-common-subsequence", "name": "Longest Common Subsequence", "path": "dsa/dp/longest-common-subsequence.md" },
+            { "id": "coin-change", "name": "Coin Change", "path": "dsa/dp/coin-change.md" }
           ]
         }
       ]
